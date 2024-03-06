@@ -79,7 +79,7 @@ namespace Guintu_Simple_Calc
 
         private void btn6_Click(object sender, EventArgs e)
         {
-            TxtDisplay.Text = TxtDisplay.Text + "2";
+            TxtDisplay.Text = TxtDisplay.Text + "6";
         }
 
         private void btn8_Click(object sender, EventArgs e)
